@@ -34,3 +34,63 @@ footer{
     border: 2px solid rgba(0, 0, 255, 0.377);
     padding: 1cm;
 }
+#mail{
+    background-image: url("https://www.internetmarketingai.net/wp-content/uploads/que-es-email-correo-electronico-e1643025171861-640x440.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 100px;
+    height: 100px;
+
+    border: none;
+    background-color: transparent;
+
+    font-size: 0;
+    cursor: pointer;
+}
+#facebook{
+    background-image: url("https://thumbs.dreamstime.com/b/bot%C3%B3n-social-del-icono-de-los-medios-facebook-ejemplo-simple-vector-plano-azul-s%C3%B3lido-aislado-en-el-fondo-blanco-155438317.jpg?w=768");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 100px;
+    height: 100px;
+
+    border: none;
+    background-color: transparent;
+
+    font-size: 0;
+    cursor: pointer; 
+}
+#instagram{
+    background-image: url("https://thumbs.dreamstime.com/b/nuevo-logotipo-de-instagram-128373493.jpg?w=576");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 100px;
+    height: 100px;
+
+    border: none;
+    background-color: transparent;
+
+    font-size: 0;
+    cursor: pointer; 
+}
+#linkedin{
+    background-image: url("https://thumbs.dreamstime.com/b/bot%C3%B3n-social-del-icono-de-los-medios-linkedin-ejemplo-simple-vector-plano-azul-s%C3%B3lido-aislado-en-el-fondo-blanco-155528873.jpg?w=768");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 100px;
+    height: 100px;
+
+    border: none;
+    background-color: transparent;
+
+    font-size: 0;
+    cursor: pointer;   
+}

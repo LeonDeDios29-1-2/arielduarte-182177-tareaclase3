@@ -16,4 +16,5 @@ Breve descripción del proyecto.
 - Agregue estilos de CSS a Titulos, texto, y bordes
 - Se arreglo botón repetido
 - Se puso ID a los botones
-
+- Se le saco nombres a los botones
+- Se le colocó imagenes a los botones
