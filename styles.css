@@ -1,0 +1,36 @@
+body {
+    background-color: azure;
+}
+h1 {
+    color: rgb(10, 8, 100);
+    font-size: 40px;
+    font-family: Helvetica;
+}
+h2 {
+    color: rgba(1, 12, 104, 0.589);
+}
+p {
+    font-size: 20px;
+    font-family: Helvetica;
+}
+main{
+    font-size: 20px;
+    font-family: Helvetica;
+}
+footer{
+    font-size: 20px;
+    font-family: Helvetica;
+}
+#presentacion {
+    background-color: rgb(207, 243, 243);
+    border: 2px solid rgba(0, 0, 255, 0.377);
+    padding: 1cm;
+}
+#hobbies{
+    border: 2px solid rgba(0, 0, 255, 0.377);
+    padding: 1cm;
+}
+#quequieroaprender{
+    border: 2px solid rgba(0, 0, 255, 0.377);
+    padding: 1cm;
+}
